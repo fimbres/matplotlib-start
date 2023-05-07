@@ -1,6 +1,4 @@
 import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
 
 labels = ['A', 'B', 'C']
 values = [1, 4, 2]
